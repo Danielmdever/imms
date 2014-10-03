@@ -1,2 +1,10 @@
-bower.json
-==========
+{
+  "name": "imms",
+  "version": "0.0.1-dev",
+  "dependencies": {
+    "bootstrap": "3.2.0",
+    "jquery": "1.10.0",
+    "jquery-validation": "1.13.0"
+  },
+  "private": true
+}
